@@ -22,7 +22,7 @@ The notebook includes data preprocessing, feature engineering, exploratory analy
 
 ## Dataset Description
 
-The dataset contains **30,894 records** collected at **30-minute intervals** from the Brisbane River. Key variables include:
+The dataset contains **30,894 records** collected at **10-minute intervals** from the Brisbane River. Key variables include:
 - **Temperature**: Affects chemical and biological processes.
 - **Dissolved Oxygen**: Essential for aquatic life.
 - **Chlorophyll**: Indicates algae concentration.
